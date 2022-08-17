@@ -10,7 +10,7 @@
 |Page|Description|
 |--|--|
 |Login|![01-login](https://user-images.githubusercontent.com/93846829/185204429-0be365fe-e68a-496b-8419-5adaec3316c2.png) 
-**Login:**<br> There are three accounts such as admin, coach, and members. <br><br>
+**Login:**<br> There are three accounts such as admin, coach, and members. <br><br>|
 |DashBoard|![02-home-1](https://user-images.githubusercontent.com/93846829/185204831-1f2d8a65-e9da-4dc4-ba03-6e55207d0e09.png) ![02-home-2](https://user-images.githubusercontent.com/93846829/185204854-95871b8e-d844-4a62-83d1-bb42e19604ba.png) 
 **DashBoard:** <br> Admin can see Users list, courses, and Notification on dashBoard. Admin also can edit and delete user and courses information here. <br><br>
 |AddNewUser|![03-addNewUser-1](https://user-images.githubusercontent.com/93846829/185205239-7747ff55-e190-4cd2-abcf-e08012651f4d.png) ![03-addNewUser-2](https://user-images.githubusercontent.com/93846829/185205347-9c4b6f11-de0f-4a4e-b5e7-13ea57482344.png) 
