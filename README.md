@@ -1,4 +1,4 @@
-# LiquorStore_Project
+# Tennis Club Management System
 ## Intro
 * Team Name: **CAT** 
 * Team Manager: Taka
